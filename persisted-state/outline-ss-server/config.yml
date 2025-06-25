@@ -1,0 +1,85 @@
+keys:
+  - cipher: chacha20-ietf-poly1305
+    id: '0'
+    port: 18359
+    secret: iOJD9ItXehR8w29AxSQDqC
+  - cipher: chacha20-ietf-poly1305
+    id: '1'
+    port: 61801
+    secret: MfK6AubzM0wPncyFq63Rqc
+  - cipher: chacha20-ietf-poly1305
+    id: '2'
+    port: 61801
+    secret: p9DKV0GxqlpXWi3kc1a9DX
+  - cipher: chacha20-ietf-poly1305
+    id: '3'
+    port: 61801
+    secret: yfQuxrDdVfL63l80lOL8qe
+  - cipher: chacha20-ietf-poly1305
+    id: '4'
+    port: 61801
+    secret: bL9P5ClkioS5VZAuePQ8u0
+  - cipher: chacha20-ietf-poly1305
+    id: '5'
+    port: 61801
+    secret: ZJDhRNhrGnnpL8UMut5kex
+  - cipher: chacha20-ietf-poly1305
+    id: '6'
+    port: 61801
+    secret: ejkXd6NlulsmOBO8gtWY1v
+  - cipher: chacha20-ietf-poly1305
+    id: '7'
+    port: 57311
+    secret: UUqgVxo9m84ODvJalFzcWE
+  - cipher: chacha20-ietf-poly1305
+    id: '8'
+    port: 55200
+    secret: 6Haz1lj2oQbzUKlT7JOua3
+  - cipher: chacha20-ietf-poly1305
+    id: '9'
+    port: 55200
+    secret: WuA7q0oChGddKgongjkH1D
+  - cipher: chacha20-ietf-poly1305
+    id: '10'
+    port: 55200
+    secret: LyDgG00LB833OPytvayQIq
+  - cipher: chacha20-ietf-poly1305
+    id: '11'
+    port: 55200
+    secret: U2OXYUugL1imYI5rmce4tW
+  - cipher: chacha20-ietf-poly1305
+    id: '12'
+    port: 55200
+    secret: DVK5PkNuCilfDaf1AQFGeN
+  - cipher: chacha20-ietf-poly1305
+    id: '13'
+    port: 55200
+    secret: g4cjDDlSlUEYZ2fmqqmGg2
+  - cipher: chacha20-ietf-poly1305
+    id: '14'
+    port: 55200
+    secret: v3m9AY4j6skNTSM4jD9Xa0
+  - cipher: chacha20-ietf-poly1305
+    id: '15'
+    port: 55200
+    secret: dmx5L640G2ex6fY7hcc6eB
+  - cipher: chacha20-ietf-poly1305
+    id: '16'
+    port: 55200
+    secret: mdZ02SEgXciEQ07RrS53mR
+  - cipher: chacha20-ietf-poly1305
+    id: '17'
+    port: 55200
+    secret: 7jGNgw8Zi4eW2F9Stim6HP
+  - cipher: chacha20-ietf-poly1305
+    id: '18'
+    port: 55200
+    secret: KZaMAsuUQdnWSAEdMZSubz
+  - cipher: chacha20-ietf-poly1305
+    id: '19'
+    port: 55200
+    secret: UqD4wJSBgufd2AmxFaE3e4
+  - cipher: chacha20-ietf-poly1305
+    id: '20'
+    port: 55200
+    secret: 1svwr7egGOlTuqbxWFqtxB
