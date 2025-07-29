@@ -5,24 +5,24 @@ keys:
     secret: iOJD9ItXehR8w29AxSQDqC
   - cipher: chacha20-ietf-poly1305
     id: '1'
-    port: 61801
-    secret: MfK6AubzM0wPncyFq63Rqc
+    port: 41499
+    secret: cDnk6UexaC4fuUrTCaM7bc
   - cipher: chacha20-ietf-poly1305
     id: '2'
-    port: 61801
-    secret: p9DKV0GxqlpXWi3kc1a9DX
+    port: 41499
+    secret: RGBbNQR4So4c5hxz9bDQKW
   - cipher: chacha20-ietf-poly1305
     id: '3'
-    port: 61801
-    secret: yfQuxrDdVfL63l80lOL8qe
+    port: 41499
+    secret: z9UWpUy8cYpPmQRo2QQZ9G
   - cipher: chacha20-ietf-poly1305
     id: '4'
-    port: 61801
-    secret: bL9P5ClkioS5VZAuePQ8u0
+    port: 41499
+    secret: mCVr9pDhmmz1rNjFLibri9
   - cipher: chacha20-ietf-poly1305
     id: '5'
-    port: 61801
-    secret: ZJDhRNhrGnnpL8UMut5kex
+    port: 41499
+    secret: KnJzRaTibNRwUOZ2v1WtDr
   - cipher: chacha20-ietf-poly1305
     id: '6'
     port: 61801
